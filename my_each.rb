@@ -5,6 +5,8 @@ def my_each(collection)
       yield(collection[i])
       i+=1
 
+    end
+
   else
     return "No block is given"
 
