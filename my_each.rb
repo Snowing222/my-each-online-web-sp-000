@@ -8,5 +8,5 @@ def my_each(collection)
   else
     return "No block is given"
 
-  end 
+  end
 end
